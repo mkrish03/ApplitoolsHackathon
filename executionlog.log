@@ -1,0 +1,2 @@
+2019-11-29 22:11:44 INFO  WebDriverManager:600 - Using chromedriver 74.0.3729.6 (since Google Chrome 74 is installed in your machine)
+2019-11-29 22:11:44 INFO  WebDriverManager:1078 - Exporting webdriver.chrome.driver as /Users/320894/.m2/repository/webdriver/chromedriver/mac64/74.0.3729.6/chromedriver
